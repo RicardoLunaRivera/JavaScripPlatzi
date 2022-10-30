@@ -132,6 +132,8 @@ nav {
     background-color: var(--white);
     position: absolute;
     top: 60px;
+    left: 0;
+    width: 100%;
     padding: 24px;
 }
 .mobile-menu a {
@@ -289,6 +291,9 @@ nav {
   margin-bottom: 0;
   color: var(--very-light-pink);
 }
+
+/*PRODUCT DETAYL*/
+
 
 
 /* MEDIA QUERYS*/
